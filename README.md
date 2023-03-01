@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @henrynavntoft
-- 👀 I’m interested in html, css & javascript
-- 🌱 I’m currently learning html & css
+- 👀 I’m interested in html, css, javascript, react.js & node.js
+- 🌱 I’m currently learning javascript and react.js
 - 💞️ I’m looking to collaborate on future projects 
-- 📫 How to reach me mail: henrynavntoft@henry-media.com
+- 📫 How to reach me mail: info@heluna.dk
 
 <!---
 henrynavntoft/henrynavntoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
