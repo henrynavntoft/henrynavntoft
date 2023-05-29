@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @henrynavntoft
 - 👀 I’m interested in html, css, javascript, react.js & node.js
-- 🌱 I’m currently learning javascript and react.js
-- 💞️ I’m looking to collaborate on future projects 
+- 🌱 I’m currently learning react.js and next.js
 - 📫 How to reach me mail: info@heluna.dk
 
 <!---
