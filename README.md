@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henrynavntoft
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning tailwind CSS & Next.js
+- 🌱 I’m currently learning Tailwind CSS & Next.js
 - 📫 How to reach me mail: henrylnavntoft@gmail.com
 
 <!---
