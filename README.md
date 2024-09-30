@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @henrynavntoft
 - 👀 I’m interested in Web Development
-- 🚀 I'm skilled in HTML, CSS, JavaScript & React
-- 🌱 I’m currently learning Tailwind CSS & Next.js
+- 🚀 I'm skilled in HTML, CSS, JavaScript & React, Tailwind CSS & Next.js
+- 🌱 I’m currently learning Databases & Backend (Python and Node.js).
 - 📫 How to reach me mail: henrylnavntoft@gmail.com
 
 <!---
