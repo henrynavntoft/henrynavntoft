@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henrynavntoft
-- 🚀 I'm work with Full Stack Development
+- 🚀 I work with Full Stack Development
 - 🌱 I’m currently learning Remix.
 - 📫 How to reach me mail: henrylnavntoft@gmail.com
 
